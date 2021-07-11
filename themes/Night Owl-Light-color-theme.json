@@ -1744,6 +1744,38 @@
       "settings": {
         "fontStyle": ""
       }
-    }
+    },
+    {
+      "scope": [
+        "entity.name.type",
+        "entity.name.type.alias",
+        "entity.name.type.interface",
+        "entity.name.type.class"
+      ],
+      "settings": {
+        "fontStyle": "italic bold underline",
+        "foreground": "#aa0982"
+      }
+    },
+    {
+      "scope": [
+        "keyword.operator.comparison",
+        "keyword.control.loop.js",
+        "keyword.control.loop.ts",
+        "keyword.control.import.js",
+        "keyword.control.import.ts",
+        "keyword.control.import.tsx",
+        "keyword.control.from.js",
+        "keyword.control.from.ts",
+        "keyword.control.from.tsx",
+        "keyword.control.export",
+        "keyword.operator.instanceof.js",
+        "keyword.operator.expression.instanceof.ts",
+        "keyword.operator.expression.instanceof.tsx"
+      ],
+      "settings": {
+        "fontStyle": "italic bold",
+      }
+    },
   ]
 }
