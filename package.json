@@ -37,12 +37,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Night Owl",
+        "label": "Night Owl Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Night Owl-color-theme-dark.json"
       },
       {
-        "label": "Night Owl",
+        "label": "Night Owl MidNigh",
         "uiTheme": "vs-dark",
         "path": "./themes/Night Owl-color-theme.json"
       },
