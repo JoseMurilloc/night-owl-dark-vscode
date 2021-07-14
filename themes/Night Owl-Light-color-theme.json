@@ -86,7 +86,7 @@
     "tab.unfocusedActiveModifiedBorder": "#93A1A1",
     "tab.unfocusedInactiveModifiedBorder": "#93A1A1",
     // Editor
-    "editor.background": "#FBFBFB",
+    "editor.background": "#fbfbfb",
     "editor.foreground": "#403f53",
     "editorCursor.foreground": "#90A7B2",
     "editorLineNumber.foreground": "#90A7B2",

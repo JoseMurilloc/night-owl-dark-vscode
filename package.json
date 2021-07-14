@@ -3,11 +3,11 @@
   "displayName": "Night Owl Dark",
   "description": "A VS Code theme for the Night Owls out there. Now introducing Light Owl theme for daytime usage. Decisions were based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨",
   "version": "2.0.1",
-  "publisher": "sdras",
+  "publisher": "JoseMurilloc",
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sdras/night-owl-vscode-theme"
+    "url": "https://github.com/JoseMurilloc/night-owl-dark-vscode"
   },
   "keywords": [
     "Theme",
@@ -36,6 +36,11 @@
   "icon": "owl-icon.png",
   "contributes": {
     "themes": [
+      {
+        "label": "Night Owl",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Night Owl-color-theme-dark.json"
+      },
       {
         "label": "Night Owl",
         "uiTheme": "vs-dark",
